@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/module.js"],"names":["PlatformCtrl"],"mappings":";;;;;;;;AAAQA,kB,oBAAAA,Y;;;2BAGNA,Y","file":"module.js","sourcesContent":["import {PlatformCtrl} from './platform_ctrl.js';\n\nexport {\n  PlatformCtrl as PanelCtrl\n};\n"]}
